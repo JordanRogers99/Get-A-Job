@@ -20,3 +20,7 @@ I am building a website, aimed at getting jobs for artists. My current plan is t
 9. Create an app for the site.
 
 10. Ensure that the app works well in mobile browsers.
+
+11. Have a 'test your Adobe skills' area where the user can see a desired result and at the end they can look at the solutions sheet and see if they used the correct methods.
+
+12. In tandem with the above, post tutorials and link to the best Youtube tutorials, watchable on the site.
