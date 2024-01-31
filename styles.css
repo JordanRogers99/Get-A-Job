@@ -1,5 +1,6 @@
 body {
     padding: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container1 {
@@ -78,10 +79,20 @@ body {
             background-color: rgb(47, 37, 37);
         }
 
+        .newsletter {
+            border-style: double;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:white;
+            background-color: rgb(47, 37, 37);
+        }
+
         .login {
             border-style: double;
             padding: 10px;
-            flex: 1 0 200px;
+            flex: 1 0 250px;
             text-align: center;
             text-decoration: none;
             color:white;
