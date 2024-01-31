@@ -1,10 +1,91 @@
 .title {
     text-align: center;
+    border-style: double;
+    border-radius: 30px;
+    border-width: 50px;
+    margin-left: 240px;
+    margin-right: 240px;
 }
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 3px;
+}
+
+        .Home {
+            border-style: solid;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:black;
+        }
+
+        .contact {
+            border-style: solid;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:black;
+        }
+
+        .freeadvice {
+            border-style: solid;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:black;
+        }
+
+        .browsejobs {
+            border-style: solid;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:black;
+        }
+
+        .login {
+            border-style: solid;
+            padding: 10px;
+            flex: 1 0 200px;
+            text-align: center;
+            text-decoration: none;
+            color:black;
+        }
 
 .opening {
     text-align:center;
     display: flex;
     flex-direction: column;
-    width: 500px;
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:solid;
+    
+}
+
+        .first {
+            padding: 5px;
+            margin-bottom: -5px;
+           
+        }
+
+        .second {
+            padding: 5px;
+        }
+
+        .third {
+            padding: 5px;
+            margin-top:-5px;
+        }
+
+
+.slogan {
+    text-align: center;
 }
