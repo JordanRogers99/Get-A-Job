@@ -16,3 +16,7 @@ I am building a website, aimed at getting jobs for artists. My current plan is t
 7. Distinguish between jobs they have seen and jobs they haven't, making the former invisible unless they specifically press a button that says otherwise.
 
 8. Create a filter menu where users can filter jobs by salary, experience level, location etc.
+
+9. Create an app for the site.
+
+10. Ensure that the app works well in mobile browsers.
