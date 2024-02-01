@@ -151,13 +151,23 @@ body {
 /* ANYTHING BELOW IS THE ADVICE PAGE*/
 /* ANYTHING BELOW IS THE ADVICE PAGE*/
 
+.intro {
+    text-align: center;
+}
+
+.AllFAQ {
+    border-style: solid;
+    border-color: black;
+    border-radius: 25px;
+}
+
 .FAQ {
     display: flex;
     flex-direction: row;
     gap: 10px;
     text-align: center;
     margin: 10px;
-    padding: 5px;
+    justify-content: space-evenly;
 }
 
 .FAQ2 {
@@ -166,27 +176,35 @@ body {
     gap: 10px;
     text-align: center;
     margin: 10px;
-    padding: 5px;
+    justify-content: space-evenly;
     
 }
 
         .titleadv1 {
             border-style: solid;
             max-width: 500px;
+            padding: 8px;
+            background-color: darkgray;
         }
 
         .titleadv2 {
             border-style: solid;
             max-width: 500px;
+            padding: 8px;
+            background-color: darkgray;
         }
 
         .titleadv3 {
             border-style: solid;
             max-width: 500px;
+            padding: 8px;
+            background-color: darkgray;
         }
 
         .titleadv4 {
             border-style: solid;
             max-width: 500px;
+            padding: 8px;
+            background-color: darkgray;
         }
 
