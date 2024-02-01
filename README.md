@@ -24,3 +24,5 @@ I am building a website, aimed at getting jobs for artists. My current plan is t
 11. Have a 'test your Adobe skills' area where the user can see a desired result and at the end they can look at the solutions sheet and see if they used the correct methods.
 
 12. In tandem with the above, post tutorials and link to the best Youtube tutorials, watchable on the site.
+
+13. On the 'browse jobs' page, I need to be able to click 'next page' and it will take me to the next page, whilst still on the 'Browse Jobs' page.
