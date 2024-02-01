@@ -273,3 +273,37 @@ body {
 
         }
 
+
+/*ALL CODE BELOW THIS POINT IS FOR THE 'BROWSE JOBS' PAGE*/
+/*ALL CODE BELOW THIS POINT IS FOR THE 'BROWSE JOBS' PAGE*/
+/*ALL CODE BELOW THIS POINT IS FOR THE 'BROWSE JOBS' PAGE*/
+
+.jobs {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    text-align: center;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+
+        .job1 {
+            border-style: double;
+            max-width: 300px;
+            padding: 8px;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 300px;
+
+        }
+
+        .job2 {
+            border-style: double;
+            max-width: 300px;
+            padding: 8px;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 300px;
+
+        }
+
