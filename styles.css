@@ -159,6 +159,7 @@ body {
     border-style: solid;
     border-color: black;
     border-radius: 25px;
+    background-image: url( ./images/img2.jpg);
 }
 
 .FAQ {
@@ -167,7 +168,25 @@ body {
     gap: 10px;
     text-align: center;
     margin: 10px;
-    justify-content: space-evenly;
+    justify-content: center;
+}
+
+.titleadv1 {
+    border-style: double;
+    max-width: 500px;
+    padding: 8px;
+    background-color: rgb(41, 29, 29);
+    color: white;
+    min-width: 500px;
+}
+
+.titleadv2 {
+    border-style: double;
+    max-width: 500px;
+    padding: 8px;
+    background-color: rgb(41, 29, 29);
+    color: white;
+    min-width: 500px;
 }
 
 .FAQ2 {
@@ -177,34 +196,80 @@ body {
     text-align: center;
     margin: 10px;
     justify-content: space-evenly;
-    
 }
 
-        .titleadv1 {
-            border-style: solid;
-            max-width: 500px;
-            padding: 8px;
-            background-color: darkgray;
-        }
-
-        .titleadv2 {
-            border-style: solid;
-            max-width: 500px;
-            padding: 8px;
-            background-color: darkgray;
-        }
-
         .titleadv3 {
-            border-style: solid;
+            border-style: double;
             max-width: 500px;
             padding: 8px;
-            background-color: darkgray;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 500px;
         }
 
         .titleadv4 {
-            border-style: solid;
+            border-style: double;
             max-width: 500px;
             padding: 8px;
-            background-color: darkgray;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 500px;
+        }
+
+.FAQ3 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    text-align: center;
+    margin: 10px;
+    justify-content: center;
+}
+
+        .titleadv5{
+            border-style: double;
+            max-width: 500px;
+            padding: 8px;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 500px;
+
+        }
+
+        .titleadv6 {
+            border-style: double;
+            max-width: 500px;
+            padding: 8px;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 500px;
+
+        }
+
+.FAQ4 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    text-align: center;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+
+        .titleadv7 {
+            border-style: double;
+            max-width: 500px;
+            padding: 8px;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 500px;
+        }
+
+        .titleadv8 {
+            border-style: double;
+            max-width: 500px;
+            padding: 8px;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 500px;
+
         }
 
