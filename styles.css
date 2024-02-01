@@ -280,7 +280,7 @@ body {
 
 .jobs {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 10px;
     text-align: center;
     margin: 10px;
@@ -289,21 +289,34 @@ body {
 
         .job1 {
             border-style: double;
-            max-width: 300px;
+            max-width: 500px;
             padding: 8px;
             background-color: rgb(41, 29, 29);
             color: white;
-            min-width: 300px;
+            min-width: 500px;
 
         }
 
         .job2 {
             border-style: double;
-            max-width: 300px;
+            max-width: 500px;
             padding: 8px;
             background-color: rgb(41, 29, 29);
             color: white;
-            min-width: 300px;
+            min-width: 500px;
 
+        }
+
+        .job3 {
+            border-style: double;
+            max-width: 500px;
+            padding: 8px;
+            background-color: rgb(41, 29, 29);
+            color: white;
+            min-width: 500px;
+        }
+
+        .BJopener {
+            text-align:center;
         }
 
