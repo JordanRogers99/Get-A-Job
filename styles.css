@@ -287,7 +287,7 @@ body {
     justify-content: space-evenly;
 }
 
-        .job1 {
+        .ad1 {
             border-style: double;
             max-width: 500px;
             padding: 8px;
@@ -297,7 +297,7 @@ body {
 
         }
 
-        .job2 {
+        .ad2 {
             border-style: double;
             max-width: 500px;
             padding: 8px;
@@ -307,7 +307,7 @@ body {
 
         }
 
-        .job3 {
+        .ad3 {
             border-style: double;
             max-width: 500px;
             padding: 8px;
@@ -319,4 +319,20 @@ body {
         .BJopener {
             text-align:center;
         }
+
+
+
+/* ALL CODE BELOW IS FOR THE JOB PAGES*/
+/* ALL CODE BELOW IS FOR THE JOB PAGES*/
+/* ALL CODE BELOW IS FOR THE JOB PAGES*/
+
+.job1 {
+    text-align: center;
+    max-width: 600px;
+}
+
+.applybox {
+    border-style:solid;
+    padding: 15px;
+}
 
