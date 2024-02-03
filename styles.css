@@ -278,6 +278,15 @@ body {
 /*ALL CODE BELOW THIS POINT IS FOR THE 'BROWSE JOBS' PAGE*/
 /*ALL CODE BELOW THIS POINT IS FOR THE 'BROWSE JOBS' PAGE*/
 
+.jobspics {
+    text-align: center;
+}
+
+.jobspics1 {
+    margin-top: -100px;
+}
+
+
 .jobs {
     display: flex;
     flex-direction: column;
@@ -285,6 +294,8 @@ body {
     text-align: center;
     margin: 10px;
     justify-content: space-evenly;
+    border-style: solid;
+    padding: 30px;
 }
 
         .ad1 {
@@ -294,6 +305,7 @@ body {
             background-color: rgb(128, 118, 118);
             color: rgb(0, 0, 0);
             min-width: 500px;
+            align-self: center;
 
         }
 
@@ -304,6 +316,7 @@ body {
             background-color: rgb(128, 118, 118);
             color: rgb(0, 0, 0);
             min-width: 500px;
+            align-self: center;
 
         }
 
@@ -314,6 +327,7 @@ body {
             background-color: rgb(128, 118, 118);
             color: rgb(0, 0, 0);
             min-width: 500px;
+            align-self: center;
         }
 
         .BJopener {
