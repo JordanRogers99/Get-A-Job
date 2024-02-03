@@ -195,7 +195,7 @@ body {
     gap: 10px;
     text-align: center;
     margin: 10px;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
         .titleadv3 {
@@ -251,7 +251,7 @@ body {
     gap: 10px;
     text-align: center;
     margin: 10px;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
         .titleadv7 {
@@ -296,13 +296,14 @@ body {
     justify-content: space-evenly;
     border-style: solid;
     padding: 30px;
+    background-image: url( ./images/img2.jpg);
 }
 
         .ad1 {
             border-style: double;
             max-width: 500px;
             padding: 8px;
-            background-color: rgb(128, 118, 118);
+            background-color: rgb(255, 255, 255);
             color: rgb(0, 0, 0);
             min-width: 500px;
             align-self: center;
@@ -313,7 +314,7 @@ body {
             border-style: double;
             max-width: 500px;
             padding: 8px;
-            background-color: rgb(128, 118, 118);
+            background-color: rgb(255, 255, 255);
             color: rgb(0, 0, 0);
             min-width: 500px;
             align-self: center;
@@ -324,7 +325,7 @@ body {
             border-style: double;
             max-width: 500px;
             padding: 8px;
-            background-color: rgb(128, 118, 118);
+            background-color: rgb(255, 255, 255);
             color: rgb(0, 0, 0);
             min-width: 500px;
             align-self: center;
