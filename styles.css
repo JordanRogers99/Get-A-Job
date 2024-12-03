@@ -63,27 +63,7 @@ body {
             background-color: rgb(47, 37, 37);
         }
 
-        .freeadvice {
-            border-style: double;
-            padding: 10px;
-            flex: 1 0 10px;
-            text-align: center;
-            text-decoration: none;
-            color:white;
-            background-color: rgb(47, 37, 37);
-        }
-
-        .browsejobs {
-            border-style: double;
-            padding: 10px;
-            flex: 1 0 10px;
-            text-align: center;
-            text-decoration: none;
-            color:white;
-            background-color: rgb(47, 37, 37);
-        }
-
-        .newsletter {
+        .tournaments {
             border-style: double;
             padding: 10px;
             flex: 1 0 10px;
@@ -96,12 +76,13 @@ body {
         .login {
             border-style: double;
             padding: 10px;
-            flex: 1 0 250px;
+            flex: 1 0 10px;
             text-align: center;
             text-decoration: none;
             color:white;
             background-color: rgb(47, 37, 37);
         }
+
 
 .opening {
     text-align:center;
